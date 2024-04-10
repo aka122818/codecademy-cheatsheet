@@ -1,0 +1,59 @@
+body {
+    background-color: #8FBFE0;
+    font-family: "Kumbh Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+    "YOPQ" 300;
+}
+
+header {
+    text-align: center;
+    font-family: "Noto Sans Gujarati", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: #1A1D1A;
+}
+
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.code {
+    font-family: monospace;
+    background-color: beige;
+}
+
+.end-row {
+    padding-right: 60px;
+}
+
+.table-heading {
+    text-align: center;
+    color: #1A1D1A;
+    margin-top: -15px;
+}
+
+table {
+    margin: 50px auto 0;
+    border: 2px solid #090C9B;
+    background-color: gainsboro;
+}
+
+td {
+    padding-right: 15px;
+    border-bottom: 1px solid #090C9B;
+}
+
+th {
+    background-color: #adb5bd;
+    border-bottom: 1px solid #090C9B;
+}
+
+.tag-name {
+    font-weight: 500;
+}
